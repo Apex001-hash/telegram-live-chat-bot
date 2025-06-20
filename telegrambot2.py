@@ -14,7 +14,7 @@ from telegram.ext import (
 )
 
 # --- Bot Config ---
-BOT_TOKEN = "8092249699:AAF4EjD-kggyuoK8ch_ipSLI5HU6gN002xg"
+BOT_TOKEN = "8092249699:AAGpFBfAPhyrAbXmyXyavR3KVhyBJdMypng"
 ADMIN_IDS = {6544649492}
 
 # --- Logging Setup ---
